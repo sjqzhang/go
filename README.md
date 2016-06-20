@@ -13,7 +13,6 @@
     go get -u github.com/golang/net
     go get -u github.com/golang/image
     go get -u github.com/golang/snappy
-    go get -u github.com/tylertreat/BoomFilters
     go get -u github.com/boltdb/bolt
     go get -u github.com/syndtr/goleveldb/leveldb
     go get -u github.com/youtube/vitess/go
