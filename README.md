@@ -1,6 +1,8 @@
 # go-tool
 
     go get -u github.com/chunshengster/httpDispatcher
+    go get -u github.com/falling-sky/go-gslb
+    go get -u github.com/zheng-ji/goHttpDns
     go get -u github.com/garyburd/redigo/redis
     go get -u github.com/uber/ringpop-go
     go get -u github.com/uber-go/zap
