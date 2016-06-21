@@ -27,7 +27,8 @@
     go get -u github.com/wvanbergen/kafka
     go get -u github.com/Shopify/sarama
     go get -u github.com/jinzhu/gorm
-    go get -u github.com/coreos/etcd
+    go get -u github.com/coreos/etcd/clientv3
+    go get -u github.com/coreos/etcd/raft
     go get -u github.com/hashicorp/consul
     go get -u github.com/hashicorp/raft
     go get -u github.com/go-kit/kit
