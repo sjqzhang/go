@@ -12,6 +12,7 @@
     go get -u github.com/uber/tchannel-go
     go get -u github.com/golang/groupcache
     go get -u github.com/golang/protobuf
+    go get -u github.com/gogo/protobuf
     go get -u github.com/golang/text
     go get -u github.com/golang/crypto
     go get -u github.com/golang/net
