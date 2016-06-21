@@ -5,6 +5,7 @@
     go get -u github.com/CNSRE/HttpDNSServer
     go get -u github.com/zheng-ji/goHttpDns
     go get -u github.com/garyburd/redigo/redis
+    go get -u go get gopkg.in/fatih/pool.v2
     go get -u github.com/uber/ringpop-go
     go get -u github.com/uber-go/zap
     go get -u github.com/go-sql-driver/mysql
