@@ -32,6 +32,7 @@
     go get -u github.com/hashicorp/consul
     go get -u github.com/hashicorp/raft
     go get -u github.com/go-kit/kit
+    go get -u google.golang.org/grpc
     go get -u github.com/samuel/go-zookeeper
     go get -u github.com/samuel/go-thrift
     go get -u github.com/jsgilmore/gostorm
