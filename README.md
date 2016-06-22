@@ -1,9 +1,11 @@
 # go-tool
 
     go get -u github.com/chunshengster/httpDispatcher
-    go get -u github.com/falling-sky/go-gslb
     go get -u github.com/CNSRE/HttpDNSServer
-    go get -u github.com/zheng-ji/goHttpDns
+    go get -u github.com/miekg/dns
+    go get -u github.com/osrg/gobgp
+    go get -u github.com/osrg/goplane
+    go get -u github.com/openconfig/goyang
     go get -u github.com/garyburd/redigo/redis
     go get -u go get gopkg.in/fatih/pool.v2
     go get -u github.com/uber/ringpop-go
