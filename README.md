@@ -8,6 +8,7 @@
     go get -u go get gopkg.in/fatih/pool.v2
     go get -u github.com/uber/ringpop-go
     go get -u github.com/uber-go/zap
+    go get -u github.com/golang/glog
     go get -u github.com/go-sql-driver/mysql
     go get -u github.com/uber/tchannel-go
     go get -u github.com/golang/groupcache
