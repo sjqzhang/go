@@ -25,7 +25,6 @@
     go get -u github.com/chrislusf/glow
     go get -u github.com/Terry-Mao/gopush-cluster
     go get -u github.com/Terry-Mao/gosnowflake
-    go get -u github.com/valyala/fasthttp
     go get -u github.com/wvanbergen/kafka
     go get -u github.com/Shopify/sarama
     go get -u github.com/jinzhu/gorm
@@ -42,7 +41,6 @@
     go get -u github.com/hugozhu/goweibo
     go get -u github.com/markbates/goth
     go get -u github.com/kataras/iris/iris
-    go get -u github.com/labstack/echo
     go get -u github.com/roylee0704/gron
     go get -u github.com/h2non/imaginary
     go get -u github.com/leekchan/timeutil
