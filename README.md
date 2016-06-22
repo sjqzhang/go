@@ -41,6 +41,7 @@
     go get -u github.com/hugozhu/goweibo
     go get -u github.com/markbates/goth
     go get -u github.com/kataras/iris/iris
+    go get -u github.com/valyala/fasthttp
     go get -u github.com/roylee0704/gron
     go get -u github.com/h2non/imaginary
     go get -u github.com/leekchan/timeutil
