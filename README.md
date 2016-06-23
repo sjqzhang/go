@@ -33,7 +33,8 @@
     go get -u github.com/jinzhu/gorm
     go get -u github.com/coreos/etcd/clientv3
     go get -u github.com/coreos/etcd/raft
-    go get -u github.com/hashicorp/consul
+    go get -u github.com/hashicorp/consul/api
+    
     go get -u github.com/hashicorp/raft
     go get -u github.com/go-kit/kit
     go get -u google.golang.org/grpc
