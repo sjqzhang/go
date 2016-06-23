@@ -34,10 +34,10 @@
     go get -u github.com/coreos/etcd/clientv3
     go get -u github.com/coreos/etcd/raft
     go get -u github.com/hashicorp/consul/api
-    
     go get -u github.com/hashicorp/raft
     go get -u github.com/go-kit/kit
     go get -u google.golang.org/grpc
+    go get -u github.com/eBay/fabio
     go get -u github.com/samuel/go-zookeeper
     go get -u github.com/samuel/go-thrift
     go get -u github.com/jsgilmore/gostorm
