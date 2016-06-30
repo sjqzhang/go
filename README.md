@@ -51,4 +51,7 @@
     go get -u github.com/roylee0704/gron
     go get -u github.com/h2non/imaginary
     go get -u github.com/leekchan/timeutil
-    
+    go get -u github.com/pquerna/ffjson
+    go get -u github.com/rakyll/ticktock
+    go get -u github.com/funny/pprof
+    go get -u github.com/funny/link
