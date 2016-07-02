@@ -56,3 +56,5 @@
     go get -u github.com/funny/pprof
     go get -u github.com/funny/link
     go get -u github.com/syndtr/goleveldb/leveldb
+    go get -u github.com/vishvananda/netlink
+    go get -u github.com/vishvananda/netns
