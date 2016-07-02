@@ -1,4 +1,4 @@
-# go-tool
+# go useful util
 
     go get -u github.com/chunshengster/httpDispatcher
     go get -u github.com/CNSRE/HttpDNSServer
@@ -58,3 +58,4 @@
     go get -u github.com/syndtr/goleveldb/leveldb
     go get -u github.com/vishvananda/netlink
     go get -u github.com/vishvananda/netns
+    go get -u github.com/urfave/cli
