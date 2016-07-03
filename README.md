@@ -30,6 +30,7 @@
     go get -u github.com/Terry-Mao/gosnowflake
     go get -u github.com/wvanbergen/kafka
     go get -u github.com/Shopify/sarama
+    go get -u github.com/wvanbergen/kafka
     go get -u github.com/jinzhu/gorm
     go get -u github.com/coreos/etcd/clientv3
     go get -u github.com/coreos/etcd/raft
