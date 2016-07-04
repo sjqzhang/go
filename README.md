@@ -1,4 +1,10 @@
 # go useful util
+    go get -u github.com/shirou/gopsutil
+    go get -u github.com/fogleman/pt
+    go get -u github.com/chrislusf/glow
+    go get -u github.com/uber/go-torch
+    go get -u github.com/asaskevich/govalidator
+    go get -u github.com/rcrowley/go-metrics
     go get -u github.com/spf13/viper
     go get -u github.com/docker/libchan
     go get -u github.com/huichen/wukong
