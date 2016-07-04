@@ -1,4 +1,8 @@
 # go useful util
+    go get -u github.com/spf13/viper
+    go get -u github.com/docker/libchan
+    go get -u github.com/huichen/wukong
+    go get -u github.com/afex/hystrix-go
     go get -u github.com/emirpasic/gods
     go get -u github.com/chunshengster/httpDispatcher
     go get -u github.com/CNSRE/HttpDNSServer
