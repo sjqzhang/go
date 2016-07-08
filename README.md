@@ -1,5 +1,6 @@
 # go useful util
     go get -u github.com/shirou/gopsutil
+    go get -u github.com/shirou/test
     go get -u github.com/fogleman/pt
     go get -u github.com/arnauddri/algorithms
     go get -u github.com/jsgilmore/gostorm
